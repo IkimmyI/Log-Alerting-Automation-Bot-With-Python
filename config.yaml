@@ -1,0 +1,3 @@
+log_path: /var/log/auth.log
+alert_methods:
+  - slack
