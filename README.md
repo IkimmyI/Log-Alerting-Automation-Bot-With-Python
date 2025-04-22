@@ -1,4 +1,4 @@
-# Log‑File Parser & Alerting Bot
+# Log Alerting Automation Bot With Python
 
 A lightweight Python automation tool that **watches** your system or application log files in real time, **parses** them for predefined suspicious patterns, and **alerts** you instantly via Slack. Perfect for small labs or personal servers where you want lightweight, code‑driven intrusion detection without a full SIEM.
 
