@@ -2,7 +2,6 @@
 
 A lightweight Python automation tool that **watches** your system or application log files in real time, **parses** them for predefined suspicious patterns, and **alerts** you instantly via Slack. Perfect for small labs or personal servers where you want lightweight, code‑driven intrusion detection without a full SIEM.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ A lightweight Python automation tool that **watches** your system or application
 - **Configurable** patterns and alert channels  
 - **Lightweight**—no heavyweight dependencies or databases  
 
----
 
 ## Tech Stack & Libraries
 
@@ -22,4 +20,3 @@ A lightweight Python automation tool that **watches** your system or application
 - [python‑dotenv](https://pypi.org/project/python-dotenv/) — secure environment variable loading (`.env`)  
 - [requests](https://pypi.org/project/requests/) — Slack webhook calls  
 
----
