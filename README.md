@@ -4,7 +4,7 @@ A lightweight Python automation tool that **watches** your system or application
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Real‑time monitoring** of any text‑based log file  
 - **Regex‑driven detection** of events such as failed SSH logins or sudo misuse  
@@ -14,7 +14,7 @@ A lightweight Python automation tool that **watches** your system or application
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 
 - **Python 3.8+**  
 - [watchdog](https://pypi.org/project/watchdog/) — file‑system event watching  
